@@ -7,6 +7,14 @@
 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 💬 Ask me about my experience with Java, Angular, C#, or anything related to backend development.
 
+<p align="center">
+  <a href="https://codeforces.com/profile/Eng_Mohammad_Hasan" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Eng_Mohammad_Hasan" alt="Codeforces Stats" width="300"/>
+  </a>
+  <br />
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Eng_Mohammad_Hasan" alt="Codeforces Badge" width="120"/>
+</p>
+
 Tech Stack:
 programming languages:
 !C# 
