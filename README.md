@@ -29,8 +29,8 @@
 ### 🧠 Competitive Programming
 
 <p align="center">
-  <a href="https://codeforces.com/profile/zakaryaawtani" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=zakaryaawtani" alt="Codeforces Stats" width="300"/>
+  <a href="https://codeforces.com/profile/zakaryaawrtani" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=zakaryaawrtani" alt="Codeforces Stats" width="300"/>
   </a>
   <br />
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=zakaryaawtani" alt="Codeforces Badge" width="120"/>
